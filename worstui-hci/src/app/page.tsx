@@ -119,7 +119,7 @@ export default function Home() {
               type="submit"
               className="w-full bg-green-500 hover:bg-green-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline transform hover:scale-110 transition duration-300 animate-spin"
           >
-            SUBMIT (if you dare)
+            SUBMIT
           </Button>
         </form>
       </main>
